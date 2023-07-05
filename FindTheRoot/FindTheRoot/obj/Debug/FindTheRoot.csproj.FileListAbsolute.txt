@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+C:\Users\ASUS\Desktop\Year 2 Semester 2\Algorithms\ASM3\[2] Find the Root\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb
